@@ -1,0 +1,6 @@
+SKU,Product_Name,Quantity,Location,Supplier,Risk_Score
+SKU001,Microchips_A1,5000,Taiwan,Fab_corp,0.8
+SKU002,Steel_Beams,200,Germany,EuroSteel,0.2
+SKU003,Lithium_Batteries,1000,China,Batts_ltd,0.6
+SKU004,Cotton_Textiles,10000,India,Fabrics_world,0.3
+SKU005,Avocado_Global,50000,Mexico,Green_farms,0.4
